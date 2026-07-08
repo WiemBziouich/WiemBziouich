@@ -43,7 +43,7 @@ I enjoy understanding the complete lifecycle of an application: from interface d
 ## Technical Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,python,fastapi,java,dotnet,postgres,supabase,docker,git,github,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,fastapi,java,dotnet,postgres,supabase,docker,git,github,figma&theme=dark"/>
 </p>
 
 
@@ -149,8 +149,8 @@ Creativity plays a big role in how I approach problem solving and product design
 ## GitHub Statistics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=WiemBziouich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiemBziouich&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WiemBziouich&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WiemBziouich&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
