@@ -158,12 +158,12 @@ Creativity plays a big role in how I approach problem solving and product design
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiemBziouich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=WiemBziouich&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WiemBziouich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=WiemBziouich&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiemBziouich&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WiemBziouich&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 </p>
 
 <p align="center">
@@ -171,8 +171,15 @@ Creativity plays a big role in how I approach problem solving and product design
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WiemBziouich&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WiemBziouich&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
+
+<!--
+Note: if any card above still shows a broken image, the public Vercel instance
+is likely rate-limited. Fork https://github.com/anuraghazra/github-readme-stats
+and deploy your own instance on Vercel (free) for a permanently reliable link.
+-->
+
 
 
 ## Currently Exploring
