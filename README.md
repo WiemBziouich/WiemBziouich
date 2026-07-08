@@ -149,6 +149,9 @@ Creativity plays a big role in how I approach problem solving and product design
 ## GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiemBziouich&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiemBziouich&theme=tokyonight" width="90%"/>
 </p>
 
