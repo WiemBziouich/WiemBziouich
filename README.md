@@ -1,161 +1,181 @@
 <h1 align="center">
-  Hi, I'm Wiem Bziouich 👋
+  Hi, I'm Wiem Bziouich
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Software%20Engineer%20%7C%20AI%20%26%20DevSecOps&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12355B,100:2C5364&height=180&section=header&text=Software%20Engineer%20%7C%20Full-Stack%20%7C%20DevSecOps&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/wiem-bziouich-3445a2360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:bziouichwiem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/WiemBziouich">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-stack+Developer;DevSecOps+Enthusiast;AI+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12355B&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;DevSecOps+Explorer;AI+Integration+Enthusiast;Building+secure+and+smart+applications" />
 </p>
+
+
+## About Me
+
+Hi, I'm **Wiem**, a Software Engineer specialized in **Full-Stack Development, DevSecOps, and AI integration**.
+
+I recently graduated from **ISIMS Sfax** with a **National Engineering Degree in Computer Science — Software Engineering specialization**.
+
+My interests are centered around building applications that combine:
+
+- Secure software engineering
+- Clean user experiences
+- Practical AI integration
+
+My journey started with mobile development, evolved into full-stack engineering, and naturally moved toward **DevSecOps and AI-powered applications**.
+
+I enjoy understanding the complete lifecycle of an application: from interface design, to backend architecture, to security and deployment.
+
+
+## Technical Skills
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=2C5364" alt="visitor badge"/>
+<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,python,fastapi,java,dotnet,postgres,supabase,docker,git,github,figma&theme=dark"/>
 </p>
 
-<br/>
 
-## 🧠 About Me
+### Development
+- React.js / React Native
+- TypeScript / JavaScript
+- Python / FastAPI
+- Java / C#
+- REST APIs
 
-I'm a recent Software Engineering graduate from **ISIMS Sfax** *(Mention Très Bien)*, specializing in **full-stack development**, **AI integration**, and **DevSecOps**. I build secure, scalable applications — from web platforms with embedded vulnerability scanning to AI-powered mobile experiences.
 
-- 🔐 Passionate about **secure-by-design** software and automated security pipelines (SAST/DAST)
-- 🤖 I integrate **LLMs** (Mistral & AI APIs) into real products to make them smarter, not just functional
-- 🚀 Currently building **InvisiThreat**, an AI-powered DevSecOps platform
-- 🌱 Always exploring the intersection of **cybersecurity** and **applied AI**
-- 💬 Comfortable across the stack — React, FastAPI, PostgreSQL, Docker, Supabase
+### Security and DevSecOps
+- Docker
+- OWASP ZAP
+- Semgrep
+- Bandit
+- SAST / DAST analysis
+- JWT, OAuth2, RBAC, 2FA
 
-<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
+### Artificial Intelligence
+- Large Language Models integration
+- Mistral with Ollama
+- Gemini API
+- AI assistants and automation
 
-## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,fastapi,python,postgres,supabase,docker,nodejs,git,github,html,css,javascript&theme=dark" />
-</p>
+## Featured Projects
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
 
-**Frontend**
-- React.js
-- React Native
-- HTML5 / CSS3 / JavaScript
+### InvisiThreat — DevSecOps Security Platform
 
-</td>
-<td valign="top" width="33%">
+Repository:
+https://github.com/WiemBziouich/invisithreat
 
-**Backend & Data**
-- FastAPI (Python)
-- PostgreSQL
-- Supabase
+Final Year Engineering Project.
 
-</td>
-<td valign="top" width="33%">
+A security platform designed to help developers detect and understand application vulnerabilities.
 
-**DevSecOps & AI**
-- Docker (basics)
-- SAST / DAST concepts
-- LLM Integration (Mistral / AI APIs)
+Main features:
+- Automated SAST analysis using Semgrep and Bandit
+- DAST testing using OWASP ZAP
+- Vulnerability dashboard and risk evaluation
+- Security workflows between developers and security managers
+- Local AI assistant using Mistral 7B and Ollama
 
-</td>
-</tr>
-</table>
+Technology stack:
 
-<br/>
+`React` `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-## 🚀 Featured Projects
-
-### 🛡️ [InvisiThreat](https://github.com/your-github-username/invisithreat) — *AI-Powered DevSecOps Platform*
-
-> An end-to-end security platform that scans codebases for vulnerabilities, remediates them through guided workflows, and explains findings via an integrated AI assistant.
-
-- 🔍 **SAST/DAST scanning engine** for automated vulnerability detection
-- 📊 **Analytics dashboard** for tracking security posture over time
-- 🤖 **AI assistant** (LLM-powered) for vulnerability explanation & remediation guidance
-- 🧱 Role-based workflows for **Security Managers** and **Developers**
-- ⚙️ Built with **React · FastAPI · PostgreSQL · LLM Integration**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FLLM-2C5364?style=flat-square&logo=openai&logoColor=white"/>
-</p>
 
 ---
 
-### 📱 [NextGen Mobile App](https://github.com/your-github-username/nextgen-app) — *AI-Powered Educational App*
+### NextGen — AI Learning Application
 
-> A mobile learning companion that combines structured quizzes with an AI assistant for personalized study support.
+Repository:
+https://github.com/WiemBziouich/nextgen-app
 
-- 🧩 Interactive **quiz engine** with progress tracking
-- 🧠 **AI assistant** for Q&A and content **summarization**
-- 👋 Smooth **onboarding system** for new users
-- ⚙️ Built with **React Native · Supabase**
+A mobile learning application enhanced with AI features.
 
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-</p>
+Features:
+- AI conversational assistant
+- Quiz generation
+- Document summarization
+- Productivity tools
 
-<br/>
+Technology stack:
+
+`React Native` `TypeScript` `Expo` `Supabase`
+
+
+---
+
+### Staylio — Hotel Booking Mobile Application
+
+A mobile application developed during my internship.
+
+Features:
+- Authentication
+- Favorites management
+- Messaging
+- Responsive interface
+
+Technology stack:
+
+`React Native` `Expo` `Figma`
+
+
+## Creative Side
+
+Software engineering is not only about writing code.
+
+Outside development, I enjoy:
+
+- Drawing
+- UI/UX design
+- Anime and storytelling
+- Discovering music
+
+Creativity plays a big role in how I approach problem solving and product design.
+
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=WiemBziouich&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiemBziouich&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📊 GitHub Stats
+
+## Currently Exploring
+
+- Advanced DevSecOps practices
+- Cloud technologies
+- AI engineering workflows
+- Building scalable applications
+
+
+## Contact
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/wiem-bziouich-3445a2360/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:bziouichwiem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <i>Open to opportunities in Full-Stack Development, AI Integration & DevSecOps 🚀</i>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<p align="center">
+<i>
+Building software is a mix of logic, creativity, and continuous improvement.
+</i>
+</p>
