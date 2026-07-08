@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Wiem Bziouich
+  Hi, I'm Wiem Bziouich 👋
 </h1>
 
 <p align="center">
@@ -16,10 +16,15 @@
   <a href="https://github.com/WiemBziouich">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-12355B?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12355B&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;DevSecOps+Explorer;AI+Integration+Enthusiast;Building+secure+and+smart+applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WiemBziouich&color=12355B&style=flat-square&label=Profile+Views"/>
 </p>
 
 
@@ -76,8 +81,7 @@ I enjoy understanding the complete lifecycle of an application: from interface d
 
 ### InvisiThreat — DevSecOps Security Platform
 
-Repository:
-https://github.com/WiemBziouich/invisithreat
+Repository: [github.com/WiemBziouich/invisithreat](https://github.com/WiemBziouich/invisithreat)
 
 Final Year Engineering Project.
 
@@ -99,8 +103,7 @@ Technology stack:
 
 ### NextGen — AI Learning Application
 
-Repository:
-https://github.com/WiemBziouich/nextgen-app
+Repository: [github.com/WiemBziouich/nextgen-app](https://github.com/WiemBziouich/nextgen-app)
 
 A mobile learning application enhanced with AI features.
 
@@ -118,6 +121,8 @@ Technology stack:
 ---
 
 ### Staylio — Hotel Booking Mobile Application
+
+Repository: [github.com/WiemBziouich/staylio-mobile](https://github.com/WiemBziouich/staylio-mobile)
 
 A mobile application developed during my internship.
 
@@ -151,9 +156,24 @@ Creativity plays a big role in how I approach problem solving and product design
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiemBziouich&theme=tokyonight" width="90%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WiemBziouich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=WiemBziouich&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiemBziouich&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiemBziouich&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WiemBziouich&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 
 ## Currently Exploring
 
@@ -174,9 +194,10 @@ Creativity plays a big role in how I approach problem solving and product design
   </a>
 </p>
 
-
 <p align="center">
 <i>
 Building software is a mix of logic, creativity, and continuous improvement.
 </i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:12355B&height=100&section=footer" width="100%"/>
